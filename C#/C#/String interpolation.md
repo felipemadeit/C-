@@ -1,0 +1,2 @@
+- Combines multiple values into a single literal string by using a template  -> {}
+- `string message = $"{greeting} {firstname}"`;

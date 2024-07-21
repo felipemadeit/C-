@@ -1,0 +1,17 @@
+- Compiled
+- C# is case sensitive, it means that console != Console
+- Comments -> //
+- '' != ""
+	- "": It use for strings
+	- '': It use for char
+- Console.WriteLine != Console.Write
+	- Console.WriteLine is for differents line -> At the end will be added a line jump
+	- Console.Write is for  a single line
+	- Console is the class and  Write() / WriteLIne() is the method
+- Data types ![[Pasted image 20240720202421.png]] 
+- To create a print a float decimal, append the "F" at the end of the number
+- To create a double decimal, do not append anything, this is the default
+- To create a decimal, append "m" at the end of the number
+
+	- Boolean
+		- true, false (bool)

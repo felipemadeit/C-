@@ -1,0 +1,5 @@
+-  Character Escape sequences 
+	-  tab -> ![[Pasted image 20240720205044.png]] 
+	-  Line Jump -> ![[Pasted image 20240720205118.png]] 
+	- To literally print quotation marks use the character ![[Pasted image 20240720205219.png]] 
+	-  To display a single backslash use double backslash![[Pasted image 20240720205337.png]] ![[Pasted image 20240720205455.png]] ![[Pasted image 20240720205550.png]] 

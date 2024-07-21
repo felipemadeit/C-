@@ -1,0 +1,12 @@
+- Examples
+	- string nameOfVariable(camelcase);
+	- char userOption;
+	- int gameScore;
+	- decimal particlesPerMillion;
+	- bool processedCustomer;
+
+- var
+	-  var is used to assign the variable type depending of the assignment
+	- var name = "Julian";
+	- var telefonicNumber = 312
+	- var variables must be initialized always

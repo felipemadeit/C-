@@ -1,0 +1,14 @@
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfoInputs.cache
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfo.cs
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/julian/C#/FirstProject/bin/Debug/net8.0/FirstProject
+/home/julian/C#/FirstProject/bin/Debug/net8.0/FirstProject.deps.json
+/home/julian/C#/FirstProject/bin/Debug/net8.0/FirstProject.runtimeconfig.json
+/home/julian/C#/FirstProject/bin/Debug/net8.0/FirstProject.dll
+/home/julian/C#/FirstProject/bin/Debug/net8.0/FirstProject.pdb
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.dll
+/home/julian/C#/FirstProject/obj/Debug/net8.0/refint/FirstProject.dll
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.pdb
+/home/julian/C#/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
+/home/julian/C#/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
